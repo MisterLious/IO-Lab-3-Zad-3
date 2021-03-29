@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.ib.io.lab3</groupId>
 	<artifactId>lab3-spring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>lab3-spring</name>
 	<description>Lista3zadanie2</description>
 	<properties>
